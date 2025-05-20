@@ -1,7 +1,7 @@
 <h3 align="center">Welcome to my discipline for Learning / Practice ! 🙏🥹🦾</h3>
 <h3 align="center">🚀Natthapon Namkhun--@inchenro</h3>
 
-**👋Hi, I'm James**--a full-time learner at data analyst and web development. I worked as a mechanical design engineer in the Automation Design Engineering department for 2 years. I'm looking for a new job in IT Department (data analyst and web developer).
+**👋Hi, I'm James**--a full-time learner at data Engineer and Back-end developer. I worked as a mechanical design engineer in the Automation Design Engineering department for 2 years. I'm looking for a new job in IT Department (data analyst and web developer).
 
 <h4 align="left">📖 Currently learning :</h4>
 <p align="left">
